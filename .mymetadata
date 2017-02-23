@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mongodbMap"
+  id="myeclipse.1487640703990"
+  context-root="/mongodbMap"
+  j2ee-spec="6.0"
+  archive="mongodbMap.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
